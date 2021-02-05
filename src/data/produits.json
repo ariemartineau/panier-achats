@@ -1,0 +1,32 @@
+[
+    {
+        "id":"prd0001",
+        "nom":"Chandail-tunique à capuchon",
+        "prix": 69.95
+    },
+    {
+        "id":"prd0002",
+        "nom":"Haut plissé à enfiler",
+        "prix": 55.00
+    },
+    {
+        "id":"prd0003",
+        "nom":"Pantalon d'entraînement en jersey bouclette",
+        "prix": 59.95
+    },
+    {
+        "id":"prd0004",
+        "nom":"Anorak trois quarts",
+        "prix": 102.00
+    },
+    {
+        "id":"prd0005",
+        "nom":"Veste trois quarts emblématique en denim",
+        "prix": 67.00
+    },
+    {
+        "id":"prd0006",
+        "nom":"Chandail en coton ouaté ras du cou à manches ballon",
+        "prix": 69.95
+    }
+]
